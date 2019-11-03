@@ -13,6 +13,7 @@ Main Script: linearregr.py
 
 Sample output : 
 D:\>python linearregr.py --data random.csv --learningRate 0.0001 --threshold 0.0001
+
 The output is saved in answer_random.csv
 
 Final Answer: (iteration_number, weight0, weight1, weight2, ....... , weightN, cost)
