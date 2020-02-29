@@ -2,7 +2,6 @@
 
 This is a basic python program for multi-variate linear regression using numpy for matrix multiplication.
 
-
 Data file :
 1) random.csv (raw data)
 2) yacht.csv (raw data)
