@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e559a234e8234aa8809b4255c82a69e8)](https://www.codacy.com/manual/HRS5020/LinearRegression-?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=HRS5020/LinearRegression-&amp;utm_campaign=Badge_Grade)
 # LinearRegression
 
 This is a basic python program for multi-variate linear regression using numpy for matrix multiplication.
